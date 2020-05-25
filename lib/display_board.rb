@@ -8,4 +8,4 @@ puts "   |   |   "
 
 
 
-print = capture_puts
+print = puts
