@@ -8,4 +8,4 @@ puts "   |   |   "
 
 
 
-output = capture_puts{ display_board }
+puts = capture_puts{ display_board }
