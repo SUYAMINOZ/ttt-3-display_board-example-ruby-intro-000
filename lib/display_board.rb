@@ -8,4 +8,5 @@ puts "   |   |   "
 
 
 
-print = 'capture_puts'
+output = capture_puts{ display_board }
+
