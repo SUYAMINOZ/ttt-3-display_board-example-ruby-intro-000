@@ -9,4 +9,3 @@ puts "   |   |   "
 
 
 output = capture_puts{ display_board }
-
